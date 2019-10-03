@@ -1,4 +1,4 @@
-rn test// jQuery 'listens' for document to be fully loaded 
+// jQuery 'listens' for document to be fully loaded 
 // then executes this ...
 // note: Every time you see $, think jQuery.
 
