@@ -7,5 +7,4 @@ $(document).ready(function() {
     
    $("#text").append(". Coming from script.js. This is cool.");
 
-    
 });
